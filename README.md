@@ -43,83 +43,83 @@ Interactomics Data: Data related to the study of interactomes, which are the who
 
 # File formats 
 
-# Genomic Data (WGS and WES)
+Genomic Data (WGS and WES)
 
 FASTA (.fasta, .fa): Stores nucleotide or peptide sequences.
 FASTQ (.fastq): Stores sequences and their quality scores.
 VCF (Variant Call Format, .vcf): Used for describing gene variants.
 
-# Transcriptomic Data
+Transcriptomic Data
 
 FASTQ (.fastq): For raw sequence data.
 GTF/GFF (Gene Transfer Format/Generic Feature Format, .gtf/.gff): For annotating genes, exons, etc.
 
-# Proteomic Data
+Proteomic Data
 
 MASS Spectrometry Data Formats (.mzML, .raw, .mgf): For mass spectrometry data.
 FASTA (.fasta): For peptide or protein sequences.
 
-# Metabolomic Data
+Metabolomic Data
 
 NetCDF (Network Common Data Form, .cdf): For representing array-oriented data.
 mzXML/mzData (.mzXML, .mzData): For mass spectrometry data.
 
-# Epigenetic Data
+Epigenetic Data
 
 BAM/SAM (Binary Alignment/Map, Sequence Alignment/Map, .bam/.sam): For storing sequence data.
 BED (Browser Extensible Data, .bed): For genomic intervals.
 
-# Phylogenetic Data
+Phylogenetic Data
 
 Newick Format (.newick, .nwk): For representing tree data.
 NEXUS (.nexus): For richly annotated genetic sequence information.
 
-# Structural Biology Data
+Structural Biology Data
 
 PDB (Protein Data Bank, .pdb): For 3D structures of large biological molecules.
 mmCIF (macromolecular Crystallographic Information File, .cif): For crystallographic structures.
 
-# Microbiome Data
+Microbiome Data
 
 FASTA (.fasta): For sequence data.
 BIOM (Biological Observation Matrix, .biom): For representing biological samples.
 
-# Population Genetics Data
+Population Genetics Data
 
 PLINK (.ped, .map): For large-scale genotyping data.
 VCF (.vcf): For variant information.
 
-# Clinical Data
+Clinical Data
 
 HL7 (Health Level-7, various extensions): For health care and clinical data.
 DICOM (Digital Imaging and Communications in Medicine, various extensions): For medical imaging.
 
-# Chemoinformatics Data
+Chemoinformatics Data
 
 SDF (Structure-Data File, .sdf): For molecular structures and associated data.
 SMILES (Simplified Molecular Input Line Entry System, .smi): For describing the structure of chemical molecules.
 
-# Pathway Data
+Pathway Data
 
 SBML (Systems Biology Markup Language, .sbml): For systems biology models.
 BioPAX (.owl): For biological pathway data.
 
-# GWAS Data
+GWAS Data
 
 PLINK (.bed, .bim, .fam): Common format for GWAS data.
 VCF (.vcf): For variant information.
 
-# SNP Data
+SNP Data
 
 VCF (.vcf): For describing SNP variants.
 BED/BIM/FAM (PLINK formats): For SNP genotype data.
 
-# CNV Data
+CNV Data
 
 BED (.bed): For genomic intervals and CNV regions.
 VCF (.vcf): Also used for CNV data.
 
-# Interactomics Data
+Interactomics Data
 
 PSI-MI XML (Proteomics Standards Initiative Molecular Interaction XML, .xml): For molecular interaction data.
 MITAB (Molecular Interaction TAB delimited format, .mitab, .txt): For tab-delimited format of molecular interactions.
