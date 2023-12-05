@@ -6,7 +6,9 @@ Bioinformatics is an interdisciplinary field that integrates biology and compute
 Genomic Data (including WGS and WES):
 
 Whole Genome Sequencing (WGS) Data: Comprehensive sequencing of the entire DNA of an organism.
+
 Whole Exome Sequencing (WES) Data: Focused sequencing of all protein-coding regions in the genome.
+
 Transcriptomic Data: Analysis of RNA transcripts to understand gene expression patterns.
 
 Proteomic Data: Study of the full set of proteins produced in a biological system.
