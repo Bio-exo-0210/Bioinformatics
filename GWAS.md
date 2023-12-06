@@ -9,4 +9,4 @@
                                                                 
 # Phenotyping data
 1.	The phenotype of interest which could be a specific disease, physical trait, or biochemical measurement.
-2.	Additional data like age, sex, ethnicity, and other clinical parameters are also considered as phenotypic data. 
+2.	Additional data like age, sex, ethnicity, and other clinical parameters are also considered phenotypic data. 
