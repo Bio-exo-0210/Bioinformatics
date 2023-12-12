@@ -1,4 +1,4 @@
-# GWAS helps in finding the connections between specific genetic variations (known as SNPs) and certain diseases or physical traits.
+GWAS helps in finding the connections between specific genetic variations (known as SNPs) and certain diseases or physical traits.
 
 # GWAS data types.
 
