@@ -127,7 +127,7 @@ MITAB (Molecular Interaction TAB delimited format, .mitab, .txt): For the tab-de
 # GWAS (Genome-Wide Association Studies) Data
 
 Definition:
-Genome-wide association Studies (GWAS) are research approaches used to identify genetic variants associated with specific traits, such as diseases, by scanning the genomes from many individuals. GWAS compare the DNA of participants with a trait or disease against those without to find SNPs (single nucleotide polymorphisms) that occur more frequently in those with the trait.
+Genome-wide association Studies (GWAS) are research approaches used to identify genetic variants associated with specific traits, such as diseases, by scanning the genomes of many individuals. GWAS compares the DNA of participants with a trait or disease against those without to find SNPs (single nucleotide polymorphisms) that occur more frequently in those with the trait.
 
 Example:
 Imagine a GWAS investigating the genetic basis of diabetes. The study might identify an SNP located on chromosome 6 that is significantly associated with an increased risk of developing type 2 diabetes. This SNP could be represented on a Manhattan plot in the dashboard, with its position on the x-axis corresponding to its location on chromosome 6 and its -log10(p-value) on the y-axis indicating its level of significance.
